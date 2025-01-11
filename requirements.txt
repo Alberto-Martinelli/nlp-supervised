@@ -1,5 +1,4 @@
 pandas
-glob
 googletrans
 textblob
 tqdm
