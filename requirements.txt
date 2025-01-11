@@ -1,5 +1,4 @@
 pandas
-os
 glob
 googletrans
 textblob
