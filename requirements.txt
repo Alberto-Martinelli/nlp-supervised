@@ -1,13 +1,4 @@
 absl-py==2.1.0
-aext-assistant==4.0.15
-aext-assistant-server==4.0.15
-aext-core==4.0.15
-aext-core-server==4.0.15
-aext-panels==4.0.15
-aext-panels-server==4.0.15
-aext-share-notebook==4.0.15
-aext-share-notebook-server==4.0.15
-aext-shared==4.0.15
 aiobotocore==2.12.3
 aiohappyeyeballs==2.4.0
 aiohttp==3.10.5
