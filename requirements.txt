@@ -4,12 +4,10 @@ textblob
 tqdm
 nltk
 matplotlib
-sklearn
-collections
+scikit-learn
 gensim
 scipy
 joblib
 transformers
-tensorflow
-random
+tensorflow-io-gcs-filesystem
 streamlit
